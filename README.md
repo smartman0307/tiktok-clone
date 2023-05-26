@@ -2,14 +2,14 @@
 
 ![A Next JS TikTok Clone](https://user-images.githubusercontent.com/71302066/181027204-1bce32fa-d116-43f8-a601-3c8d4bc97513.png "A Next JS TikTok Clone")
 
-[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/Technical-Shubham-tech "Ask Me Anything!")
-[![GitHub license](https://img.shields.io/github/license/Technical-Shubham-tech/tiktok-clone?)](https://github.com/Technical-Shubham-tech/tiktok-clone/blob/main/LICENSE.md "GitHub license")
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/Technical-Shubham-tech/tiktok-clone/commits/main "Maintenance")
-[![GitHub branches](https://badgen.net/github/branches/Technical-Shubham-tech/tiktok-clone/)](https://github.com/Technical-Shubham-tech/tiktok-clone/branches "GitHub branches")
-[![Github commits](https://badgen.net/github/commits/Technical-Shubham-tech/tiktok-clone/main/)](https://github.com/Technical-Shubham-tech/tiktok-clone/commits "Github commits")
+[![Ask Me Anything!](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/smartman0307 "Ask Me Anything!")
+[![GitHub license](https://img.shields.io/github/license/smartman0307/tiktok-clone?)](https://github.com/smartman0307/tiktok-clone/blob/main/LICENSE.md "GitHub license")
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/smartman0307/tiktok-clone/commits/main "Maintenance")
+[![GitHub branches](https://badgen.net/github/branches/smartman0307/tiktok-clone/)](https://github.com/smartman0307/tiktok-clone/branches "GitHub branches")
+[![Github commits](https://badgen.net/github/commits/smartman0307/tiktok-clone/main/)](https://github.com/smartman0307/tiktok-clone/commits "Github commits")
 [![Vercel Deployment](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tiktok-clone-react.vercel.app/ "Vercel Deployment")
-[![GitHub issues](https://img.shields.io/github/issues/Technical-Shubham-tech/tiktok-clone?)](https://github.com/Technical-Shubham-tech/tiktok-clone/issues "GitHub issues")
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/Technical-Shubham-tech/tiktok-clone?)](https://github.com/Technical-Shubham-tech/tiktok-clone/pulls "GitHub pull requests")
+[![GitHub issues](https://img.shields.io/github/issues/smartman0307/tiktok-clone?)](https://github.com/smartman0307/tiktok-clone/issues "GitHub issues")
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/smartman0307/tiktok-clone?)](https://github.com/smartman0307/tiktok-clone/pulls "GitHub pull requests")
 
 ## :warning: Before you start
 
@@ -77,7 +77,7 @@ _NOTE_: Make sure you don't share these keys publicaly.
 
 [<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" width="150" />](https://nextjs.org/)
 
-[<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">](https://github.com/Technical-Shubham-tech "Built with Love")
+[<img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love">](https://github.com/smartman0307 "Built with Love")
 
 ## :wrench: Stats
 
@@ -86,16 +86,6 @@ _NOTE_: Make sure you don't share these keys publicaly.
 ## :raised_hands: Contribute
 
 You might encounter some bugs while using this app. You are more than welcome to contribute. Just submit changes via pull request and I will review them before merging. Make sure you follow community guidelines.
-
-## Buy Me a Coffee 🍺
-
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
-
-## :rocket: Follow Me
-
-[![GitHub followers](https://img.shields.io/github/followers/Technical-Shubham-tech?style=social&label=Follow&maxAge=2592000)](https://github.com/Technical-Shubham-tech "Follow Me")
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FTechnical-Shubham-tech%2Fmedical-chat-app "Tweet")
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCNAz_hUVBG2ZUN8TVm0bmYw "Subscribe my Channel")
 
 ## :star: Give A Star
 
